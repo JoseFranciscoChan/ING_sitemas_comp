@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+
+
+<title>Light Theme</title>
+
+<body style="background-color:#70B5FF;">
+
+<div class="container"> 
+
+	 
+   <h1 style="background:#39678A;"><span class="logo"><strong>presentacion</strong></span>
+	  
+     
+	  </h1>
+ 
+  <section class="intro">
+    <div class="column">
+      
+    </div>
+    <div class="column">
+      <h2>Jose Francisco Chan Haas</h2>
+      <h2>&nbsp;</h2>
+    </div>
+    <div class="column">
+      <h2>yo soy ingeniero en sistemas computacionales </h2>
+    </div>
+  </section>
+  <div class="gallery">
+ 
+    <p style="background:#5B92AA; color:white; font-weight:bold; padding:15px; border:3px solid purple;">Area de la tecnologia: <span class="tag">Me gusta el area de la programacion&nbsp;&nbsp;</span>    
+       
+  <div class="thumbnail">
+      <h4>Localidad&nbsp;&nbsp;</h4>
+      <p class="tag">La localidad de Nunkini del municipio de Calkini</p>
+      <p class="text_column">&nbsp;</p>
+    </div>
+    <div class="thumbnail">
+      <h4>Metas y motivaciones&nbsp;</h4>
+      <p class="tag">&nbsp;Bueno como metas la pricipal es terminar la universidad&nbsp;</p>
+      <p class="tag">Seguir aprendiendo y mejorar</p>
+      <p class="tag">Tengo a mi familia la cual es mi principal motivacion&nbsp;&nbsp;      </p>
+      <p class="text_column">&nbsp;</p>
+    </div>
+    <div class="thumbnail">
+      <h4>Un día en la vida de...</h4>
+      <p class="tag">para aprovechar el dia siempre trato en ayudar a mi familia cuando lo necesit.</p>
+      <p class="tag">Interactuo con mis amigo conectandome a jugar videojueos en la noche.</p>
+      <p class="tag">Me hace sentir satisfecho cuando logro hacer algo que esperaba que me llevara mas tiempo</p>
+      <p class="tag">&nbsp;Por lo contrariome frusta no terminar algo a tiempo&nbsp;      </p>
+      <p class="text_column">&nbsp;</p>
+    </div>
+
+ 
+   </div>
+
+</body>
+</html>
